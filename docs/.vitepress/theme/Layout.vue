@@ -8,7 +8,7 @@ const { Layout } = DefaultTheme
     <template #sidebar-top>
       <div class="sidebar-top">
         <h3>Using the  Base Layout! ✏️</h3>
-        <p>Template checking ✨</p>
+        <p>Template intro done ✨</p>
       </div>
      
     </template>
