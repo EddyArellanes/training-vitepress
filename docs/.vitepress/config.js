@@ -1,8 +1,4 @@
-/**
- * @type {import('vitepress').UserConfig}
- */
-module.exports = {
-  title: 'Hello VitePress',
+export default {
+  title: 'Eddy Arellanes Vitepress Page',
   description: 'Just playing around.'
 }
-export default config
